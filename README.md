@@ -1,6 +1,6 @@
 # PyQt5_Daily_Photos
 GUI project using PyQt5 library and MySQL 
-
+for learning purpose 
 
 video tutorials for this project in Arabic language :
 
